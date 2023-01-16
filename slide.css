@@ -1,0 +1,30 @@
+.carrousel {
+	margin:0;
+	padding:0;
+	height:75px;
+}
+.carrousel li {
+	float:left;
+	width:400px;
+	height:300px;
+	margin:0;
+	padding:0;
+	list-style:none;
+	color:#FFF;
+	text-align:center;
+	
+}
+
+h1{
+    margin-left: 20px;
+}
+li{
+	display: flex;
+}
+.carrousel-next button{
+	margin-left: -40px;
+	width:77px
+}
+.carrousel-prev button{
+	margin-left: -40px;
+}
